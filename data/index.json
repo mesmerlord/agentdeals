@@ -40319,6 +40319,26 @@
           "read_on": "2026-11-03"
         }
       ]
+    },
+    {
+      "vendor": "LurkAPI",
+      "category": "Web Scraping",
+      "description": "Social media data API and MCP server: public posts, profiles, comments, video transcripts and ad library results from 16 platforms (TikTok, Instagram, YouTube, Reddit, X, LinkedIn, Facebook and more) as JSON. Free: 100 credits at signup with no credit card, and once a day a balance under 25 is topped back up to 25. Most calls cost 1 credit. Rate limit 50 requests per 10 seconds. Paid credits come in one-off packs from $9 for 10,000 and never expire.",
+      "tier": "Free",
+      "url": "https://lurkapi.com/pricing",
+      "tags": [
+        "scraping",
+        "social media",
+        "api",
+        "mcp",
+        "tiktok",
+        "instagram",
+        "youtube",
+        "reddit",
+        "ad library",
+        "free tier"
+      ],
+      "verifiedDate": "2026-11-05"
     }
   ],
   "changes": []
